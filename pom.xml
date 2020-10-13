@@ -17,7 +17,7 @@
         <testng.version>6.8.8</testng.version>
         <springframework.version>4.3.24.RELEASE</springframework.version>
         <mockito.version>2.24.0</mockito.version>
-        <junit.version>4.12</junit.version>
+        <junit.version>4.13.1</junit.version>
         <springtest.version>3.2.2.RELEASE</springtest.version>
         <systemrules.version>1.18.0</systemrules.version>
 
