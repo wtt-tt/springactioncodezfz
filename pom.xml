@@ -15,7 +15,7 @@
     </modules>
     <properties>
         <testng.version>6.8.8</testng.version>
-        <springframework.version>4.3.24.RELEASE</springframework.version>
+        <springframework.version>5.3.19</springframework.version>
         <mockito.version>2.24.0</mockito.version>
         <junit.version>4.12</junit.version>
         <springtest.version>3.2.2.RELEASE</springtest.version>
